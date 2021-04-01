@@ -1,0 +1,16 @@
+C:\repo\student-class\bin\Debug\net5.0\student-class.exe
+C:\repo\student-class\bin\Debug\net5.0\student-class.deps.json
+C:\repo\student-class\bin\Debug\net5.0\student-class.runtimeconfig.json
+C:\repo\student-class\bin\Debug\net5.0\student-class.runtimeconfig.dev.json
+C:\repo\student-class\bin\Debug\net5.0\student-class.dll
+C:\repo\student-class\bin\Debug\net5.0\ref\student-class.dll
+C:\repo\student-class\bin\Debug\net5.0\student-class.pdb
+C:\repo\student-class\obj\Debug\net5.0\student-class.csprojAssemblyReference.cache
+C:\repo\student-class\obj\Debug\net5.0\student-class.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\student-class\obj\Debug\net5.0\student-class.AssemblyInfoInputs.cache
+C:\repo\student-class\obj\Debug\net5.0\student-class.AssemblyInfo.cs
+C:\repo\student-class\obj\Debug\net5.0\student-class.csproj.CoreCompileInputs.cache
+C:\repo\student-class\obj\Debug\net5.0\student-class.dll
+C:\repo\student-class\obj\Debug\net5.0\ref\student-class.dll
+C:\repo\student-class\obj\Debug\net5.0\student-class.pdb
+C:\repo\student-class\obj\Debug\net5.0\student-class.genruntimeconfig.cache
